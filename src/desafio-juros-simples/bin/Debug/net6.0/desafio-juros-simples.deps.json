@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "desafio-juros-simples/1.0.0": {
+        "runtime": {
+          "desafio-juros-simples.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "desafio-juros-simples/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
